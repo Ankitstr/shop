@@ -18,7 +18,7 @@ Add to cart
 ![Screenshot (147)](https://github.com/user-attachments/assets/d847221b-713d-4f8d-a756-db4339ddd028)
 
 checkout
-![Screenshot (150)](https://github.com/user-attachments/assets/433d6141-e204-4154-a498-302c29b1363f)
+![Screenshot (148)](https://github.com/user-attachments/assets/348e8cfd-e13d-4e08-9357-46367f43a2df)
 
 And non member to add member
 ![Screenshot (150)](https://github.com/user-attachments/assets/a10e2b4b-c78b-4bfd-be2d-a576ee619ecd)
