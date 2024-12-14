@@ -12,13 +12,17 @@ go to home page add product
 ![Screenshot (145)](https://github.com/user-attachments/assets/971548fb-db17-496d-8dcd-2399927177cf)
 
 back to index page
-![Screenshot (146)](https://github.com/user-attachments/assets/0e485b84-6b72-4d7e-af2e-d5da23655801)
+![Screenshot (155)](https://github.com/user-attachments/assets/3ff64a59-b473-462b-bff7-ff69598f0776)
+
+filter and search
+![Screenshot (156)](https://github.com/user-attachments/assets/cda9ce33-9c0f-4abc-9454-b1fcabab40e5)
+![Screenshot (157)](https://github.com/user-attachments/assets/b39003bd-d70a-43f8-9ba2-8c50b212e6ee)
 
 Add to cart
 ![Screenshot (147)](https://github.com/user-attachments/assets/d847221b-713d-4f8d-a756-db4339ddd028)
 
 checkout
-![Screenshot (148)](https://github.com/user-attachments/assets/348e8cfd-e13d-4e08-9357-46367f43a2df)
+![Screenshot (150)](https://github.com/user-attachments/assets/433d6141-e204-4154-a498-302c29b1363f)
 
 And non member to add member
 ![Screenshot (150)](https://github.com/user-attachments/assets/a10e2b4b-c78b-4bfd-be2d-a576ee619ecd)
