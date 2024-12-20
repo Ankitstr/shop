@@ -122,7 +122,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <?php endif; ?>
         <p class="summary">Final Total: ₹<?php echo number_format($final_total, 2); ?></p>
         <form method="POST" action="">
-            <button type="submit">Place Order</button>
+           <a href="checkout.php"> <button type="submit">Place Order</button></a>
         </form>
     </div>
 </body>
